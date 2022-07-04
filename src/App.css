@@ -63,7 +63,7 @@ p {
   list-style-type: none;
   font-family: "poppins";
   font-size: 20px;
-  padding-right:40px;
+  padding-right:10px;
 }
 
 .active {
@@ -123,7 +123,6 @@ h3 {
   display: flex;
   margin-top: 0px;
 }
-
 
 #worldclass {
   padding-left: 70px;
