@@ -74,6 +74,7 @@ a:hover {
   padding-top: 0px;
   margin-top: 0px;
   padding-bottom: 25px;
+  color: #fd5c63;
 }
 
 h1 {
@@ -109,7 +110,6 @@ p {
 
 .active {
   color:#fd5c63;
-  
 }
 
 #right-menu li {
@@ -170,7 +170,6 @@ h3 {
 #worldclass {
   padding-left: 70px;
   display: block;
-
 }
 
 #worldclass h3 {
